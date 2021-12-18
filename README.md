@@ -1,2 +1,2 @@
-# Step-Counter
+# Step Counter
 Weekend project
