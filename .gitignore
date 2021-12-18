@@ -4,6 +4,16 @@
 *.ap_
 *.aab
 
+# seung
+data/
+.DS_Store
+.DS_Store/
+__not
+.idea/
+.idea
+.DS_Store
+
+
 # Files for the ART/Dalvik VM
 *.dex
 
